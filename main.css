@@ -1,6 +1,10 @@
+body{
+    background-image: url(https://i.ibb.co/r5DnB1f/cerad.jpg);
+    background-size: cover;
+}
 header{
     text-align: center;
-    background-image: url(https://i.ibb.co/r5DnB1f/cerad.jpg);
+    
     padding: 20px 20px 20px;
 }
 .logo{
@@ -36,7 +40,9 @@ nav a:hover{
     color: black;
 }
 footer{
-    background-color: #e0e0eb;
+    color: white;
+    background-color: #191818;
+    opacity: 0.9;
     font-family: "Arial";
     border: 1px solid inherit;
     line-height: 1.5rem;
@@ -54,11 +60,11 @@ h5{
     width: 20%;
 }
 ul a:link{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 ul a:visited{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 .ri{
@@ -76,7 +82,7 @@ ul a:visited{
     margin-left:30px;
     margin-right: 30px;
     padding-bottom: 30px;
-    border-top: 2px solid black;
+    border-top: 2px solid white;
     padding-top: 20px;
     font-size: 14px;
 }
