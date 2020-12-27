@@ -1,6 +1,6 @@
 header{
     text-align: center;
-    background-image: url(cerad.jpg);
+    background-image: url(https://i.ibb.co/r5DnB1f/cerad.jpg);
     padding: 20px 20px 20px;
 }
 .logo{
@@ -52,6 +52,14 @@ h5{
     display: inline-block;
     vertical-align: top;
     width: 20%;
+}
+ul a:link{
+    color: black;
+    text-decoration: none;
+}
+ul a:visited{
+    color: black;
+    text-decoration: none;
 }
 .ri{
     list-style-type: none;
