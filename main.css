@@ -57,7 +57,7 @@ h5{
     list-style-type: none;
     display: inline-block;
     vertical-align: top;
-    width: 20%;
+    width: 10%;
 }
 ul a:link{
     color: white;
@@ -70,7 +70,7 @@ ul a:visited{
 .ri{
     list-style-type: none;
     display: inline-block;
-    width: 20%;
+    width: 10%;
 }
 .mob{
     display: inline-block;
